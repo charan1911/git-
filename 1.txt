@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-2two
-=======
-master
->>>>>>> master
+2two2
